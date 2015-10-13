@@ -3,7 +3,7 @@
 from lib.queue import Queue
 from lib.stack import Stack
 
-__author__ = 'shenshijun'
+
 
 """
 实际上，在红黑树中使用单例空节点会出现一个根本的问题：也就是父节点没法保存。这是一个大问题。

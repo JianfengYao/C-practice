@@ -2,7 +2,7 @@
 # -*- coding:UTF-8
 import copy
 
-__author__ = 'shenshijun'
+
 
 
 class Stack(object):

@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:UTF-8
-__author__ = 'shenshijun'
+
 """
 贪心选择实现的最大活动个数算法
 """

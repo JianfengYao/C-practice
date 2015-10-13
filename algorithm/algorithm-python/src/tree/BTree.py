@@ -2,7 +2,7 @@
 # -*- coding:UTF-8
 from lib.stack import Stack
 
-__author__ = 'shenshijun'
+
 
 
 class Node(object):

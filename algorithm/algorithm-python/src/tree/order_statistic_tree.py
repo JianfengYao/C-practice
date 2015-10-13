@@ -3,7 +3,7 @@
 from lib.queue import Queue
 from lib.stack import Stack
 
-__author__ = 'shenshijun'
+
 
 
 class OrderStatisticTree(object):
