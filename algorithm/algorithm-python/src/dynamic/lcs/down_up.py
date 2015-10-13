@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:UTF-8
-__author__ = 'shenshijun'
+
 
 """
 自底向上实现LCS

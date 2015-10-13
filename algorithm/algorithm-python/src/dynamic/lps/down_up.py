@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:UTF-8
-__author__ = 'shenshijun'
+
 """
 使用自下而上的方法实现的最长回文序列
 """

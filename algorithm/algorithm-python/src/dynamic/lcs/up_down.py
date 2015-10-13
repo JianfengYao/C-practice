@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:UTF-8 -*-
-__author__ = 'shenshijun'
+
 """
 从上到下计算LCS的时候，只要实现递归公式就可以了
 """

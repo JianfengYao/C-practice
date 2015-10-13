@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:UTF-8
-__author__ = 'shenshijun'
+
 
 """
 带备忘的自顶向下动态规划实现的斐波那契数列，算法的性能是O(n)
