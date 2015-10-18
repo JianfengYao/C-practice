@@ -15,6 +15,7 @@ def binary_search(sorted_list, value):
     temp是这个循环的退出条件，非常重要。while里面的条件会在找到数据的时候退出。
     而temp的条件则是在查找不到数据的时候退出，推出的条件其实就是头尾。
     还有要注意的是其实二分分割的具体位置不重要，因为分割的位置其实是一个趋近的过程。
+    更具体的分析可以参照《编程珠玑》
     """
     while value != sorted_list[index]:
         temp = index
