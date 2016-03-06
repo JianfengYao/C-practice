@@ -6,6 +6,7 @@ MiniSTL
 
 编译环境：VS2015
 
+ps：相关数据结构已经相当一部分有python实现,2016.4月开始重写C++版好了
 ##开发计划：
   * STL的几大基本组件，如空间配置器、迭代器、string、vector、list、deque、set、map等
   * STL算法库中的大部分算法，如find，count，sort，copy等
@@ -24,13 +25,13 @@ MiniSTL
     * 空间配置器：0%
     * iterator traits：0%
     * reverse_iterator：0%
-    * vector：0%
+    * vector：50%
     * string：0%
-    * stack：0%
-    * deque：0%
-    * queue：0%
+    * stack：50%
+    * deque：50%
+    * queue：50%
     * pair：0%
-    * list：0%
+    * list：50%
 	* unique_ptr：0%
 	* shared_ptr：0%
 
